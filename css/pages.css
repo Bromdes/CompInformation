@@ -1,0 +1,34 @@
+body{
+  background: #FFDAB9;
+  max-width: 900px;
+  margin: 10px auto;
+  padding: 30px;
+}
+
+hr{
+  border-color: black;
+  background-color: black;
+}
+
+.textP{
+  font-size: 18px;
+  font-family: Times New Roman, serif;
+}
+
+.divText{
+  padding: 20px;
+  max-width: 900px;
+  max-height: 100%;
+  background-color: #FFEFD5;
+}
+
+.topH1{
+  text-align: center;
+  font-size: 24px;
+  font-weight: bolder;
+  font-family: Times New Roman, serif;
+}
+
+.photoP{
+  text-align: center;
+}
